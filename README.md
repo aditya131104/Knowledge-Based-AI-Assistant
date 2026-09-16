@@ -38,5 +38,4 @@ A PDF-based question answering system built using **Retrieval-Augmented Generati
 
 ## 👨‍💻 Author
 
-**Aditya Raj**  
-B.Tech CSE (Data Science)
+**AADITY RAJ**  
